@@ -7,5 +7,5 @@ We tried to solve TSP using different heuristcs and metaheurists and compare the
  - Minimum Spanning Tree
  
 ### Metaheuristics:
- -
+ - Local Search
  - Tabu Search
